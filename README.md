@@ -69,3 +69,5 @@ $ ipconfig #Procure pelo IPv4 address
 #Você deve alterar o endereço ip do baseURL para o do seu computador, o mesmo que foi utilizado para iniciar o json-server.
 ```
 ![image](https://user-images.githubusercontent.com/28011941/116101582-52348680-a684-11eb-91ad-d29977fc7be7.png)
+<hr>
+Feito por 💜  Eric Vinicius 👋 <a href="https://www.linkedin.com/in/eric-vinicius-nascimento-6215b8205/">linkedin</a>
