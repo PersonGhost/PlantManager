@@ -87,8 +87,8 @@ $ ipconfig
 # Você deve alterar o endereço ip do baseURL para o do seu computador, o mesmo que foi utilizado para iniciar o json-server.
 ```
 ![image](https://user-images.githubusercontent.com/28011941/116101582-52348680-a684-11eb-91ad-d29977fc7be7.png)
-<hr>
-## 📝 Licença
-Este projeto está sob a licença do MIT. Para maiores informações acesse o arquivo <a href="https://github.com/ericviinny/PlantManager/blob/main/LICENSE">LICENÇA</a>.
+<h2><b>📝 Licença</b></h2>
 
+Este projeto está sob a licença do MIT. Para maiores informações acesse o arquivo <a href="https://github.com/ericviinny/PlantManager/blob/main/LICENSE">LICENÇA</a>.
+<hr>
 <p align="center">Feito por 💜  Eric Vinicius 👋 <a href="https://www.linkedin.com/in/eric-vinicius-nascimento-6215b8205/">linkedin</a></p>
