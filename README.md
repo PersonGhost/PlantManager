@@ -28,8 +28,11 @@
 <p><b>Clone o projeto e logo após acesse a pasta.</b></p>
 
 ```
-$ git clone https://github.com/PersonGhost/PlantManager.git # Clonando o projeto
-$ cd plantmanager # Entrando na pasta do projeto
+# Clonando o projeto
+$ git clone https://github.com/PersonGhost/PlantManager.git
+
+# Entrando na pasta do projeto
+$ cd plantmanager
 ```
 
 <p><b>Instale as dependências nescessárias</b></p>
