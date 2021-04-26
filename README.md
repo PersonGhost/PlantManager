@@ -28,47 +28,47 @@
 <p><b>Clone o projeto e logo após acesse a pasta.</b></p>
 
 ```
-$ git clone https://github.com/PersonGhost/PlantManager.git #Clonando o projeto
-$ cd plantmanager #Entrando na pasta do projeto
+$ git clone https://github.com/PersonGhost/PlantManager.git # Clonando o projeto
+$ cd plantmanager # Entrando na pasta do projeto
 ```
 
 <p><b>Instale as dependências nescessárias</b></p>
 
 ```
-$ npm install #Instalar as dependências utilizando o npm
-$ yarn #Instalar as dependências utilizando o yarn
+$ npm install # Instalar as dependências utilizando o npm
+$ yarn # Instalar as dependências utilizando o yarn
 ```
 
 <p><b>Antes de executar o projeto, vamos também instalar o Json-server</b></p>
 
 ```
-$ npm install -g json-server #Instalar o json-server utilizando o npm
-$ yarn add -g json-server#Instalar o json-server utilizando o yarn
+$ npm install -g json-server # Instalar o json-server utilizando o npm
+$ yarn add -g json-server# Instalar o json-server utilizando o yarn
 ```
 
 <p><b>Agora vamos executar o projeto</b></p>
 
 ```
-#Escolha um método para iniciar o projeto abaixo
-$ npm start #Iniciar o projeto utilizando o npm
-$ yarn start #Iniciar o projeto utilizando o yarn
-$ expo start #Iniciar o projeto utilizando o expo
+# Escolha um método para iniciar o projeto abaixo
+$ npm start # Iniciar o projeto utilizando o npm
+$ yarn start # Iniciar o projeto utilizando o yarn
+$ expo start # Iniciar o projeto utilizando o expo
 
-#Em outra janela cmd vamos executar o json-server
+# Em outra janela cmd vamos executar o json-server
 $ json-server ./src/services/server.json --host 000.000.0.000 --port 3333
 ```
 
 <p><b>Aviso:</b> Você deve alterar o endereço de ip (000.000.0.000) para o do seu computador, para isto você pode encontar seu ip através do cmd</p>
 
 ```
-$ ipconfig #Procure pelo IPv4 address
+$ ipconfig # Procure pelo IPv4 address
 ```
 
 <p><b>Também é preciso alterar o link de consulta da api</b></p>
 
 ```
-#Acesse o diretório /src/services/api.ts
-#Você deve alterar o endereço ip do baseURL para o do seu computador, o mesmo que foi utilizado para iniciar o json-server.
+# Acesse o diretório /src/services/api.ts
+# Você deve alterar o endereço ip do baseURL para o do seu computador, o mesmo que foi utilizado para iniciar o json-server.
 ```
 ![image](https://user-images.githubusercontent.com/28011941/116101582-52348680-a684-11eb-91ad-d29977fc7be7.png)
 <hr>
