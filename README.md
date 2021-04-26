@@ -35,24 +35,36 @@ $ cd plantmanager # Entrando na pasta do projeto
 <p><b>Instale as dependências nescessárias</b></p>
 
 ```
-$ npm install # Instalar as dependências utilizando o npm
-$ yarn # Instalar as dependências utilizando o yarn
+# Instalar as dependências utilizando o npm
+$ npm install
+
+# Instalar as dependências utilizando o yarn
+$ yarn
 ```
 
 <p><b>Antes de executar o projeto, vamos também instalar o Json-server</b></p>
 
 ```
-$ npm install -g json-server # Instalar o json-server utilizando o npm
-$ yarn add -g json-server# Instalar o json-server utilizando o yarn
+# Instalar o json-server utilizando o npm
+$ npm install -g json-server
+
+# Instalar o json-server utilizando o yarn
+$ yarn add -g json-server
 ```
 
 <p><b>Agora vamos executar o projeto</b></p>
 
 ```
 # Escolha um método para iniciar o projeto abaixo
-$ npm start # Iniciar o projeto utilizando o npm
-$ yarn start # Iniciar o projeto utilizando o yarn
-$ expo start # Iniciar o projeto utilizando o expo
+
+# Iniciar o projeto utilizando o npm
+$ npm start
+
+# Iniciar o projeto utilizando o yarn
+$ yarn start
+
+# Iniciar o projeto utilizando o expo
+$ expo start
 
 # Em outra janela cmd vamos executar o json-server
 $ json-server ./src/services/server.json --host 000.000.0.000 --port 3333
@@ -61,7 +73,8 @@ $ json-server ./src/services/server.json --host 000.000.0.000 --port 3333
 <p><b>Aviso:</b> Você deve alterar o endereço de ip (000.000.0.000) para o do seu computador, para isto você pode encontar seu ip através do cmd</p>
 
 ```
-$ ipconfig # Procure pelo IPv4 address
+# Procure pelo IPv4 address
+$ ipconfig
 ```
 
 <p><b>Também é preciso alterar o link de consulta da api</b></p>
