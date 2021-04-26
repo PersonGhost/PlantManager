@@ -4,6 +4,8 @@
 <h2><b>💡 Sobre o Projeto</b></h2>
 <p>As plantas são vistas no cotidiano de muitas pessoas, sendo em sua casa, trabalho ou até mesmo em restaurantes, sendo assim uma preocupação que se precisa ter é não ter tempo para lembrar de cuidar de sua planta, o PlantManager veio para resolver este problema. Agora com o nosso aplicativo você não precisa saberá quando e como regar suas plantas!</p>
 
+<p>Veja o layout do projeto no <a href="https://www.figma.com/file/jGBbCVh1IyA76Ly05WUpCs/Projeto-PlantManager" target="__blank">figma</a>.</p>
+
 <h2><b>🚧 Tecnologias Utilizadas</b></h2>
 <p>Veja abaixo todas tecnologias utilizadas no projeto.</p>
 
